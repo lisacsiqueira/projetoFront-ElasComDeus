@@ -1,0 +1,33 @@
+.pgInicial{
+
+    height: 100vh;
+
+    background:url("../../assets/image/bgInicio.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+    z-index: -1;
+
+}
+
+.pgInicial h1{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-top: 150px;
+  color: #1b2738;
+  font-size: 60px;
+  max-width: 600px;
+  padding-left: 10%;
+
+
+}
+
+p{
+  color: #1b2738;
+  padding-top: 25px;
+  max-width: 600px;
+  font-size: 20px;
+  padding-left: 10%;
+}
